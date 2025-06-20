@@ -1,16 +1,33 @@
+#title: "BFT-AI 2025"
+#description: "1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems"
+#url: "https://bft-ai-2025.github.io"
+##baseurl: ""
+#repository: bft-ai-2025/bft-ai2025.
+#
+##theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
+#plugins:
+#  - jekyll-include-cache
+#  - jekyll-remote-theme
+#  - jekyll-include-cache
+#
+#
+#markdown: kramdown
+#kramdown:
+#  math_engine: mathjax
+#
+#include:
+#  - _pages
 title: "BFT-AI 2025"
 description: "1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems"
-url: "https://your-github-username.github.io"
-baseurl: ""
-repository: your-username/bft-ai2025-site
+url: "https://bft-ai-2025.github.io"
+baseurl: ""  # Important: leave this empty for user/organization sites
 
-#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-include-cache
-
 
 markdown: kramdown
 kramdown:
@@ -18,3 +35,6 @@ kramdown:
 
 include:
   - _pages
+
+repository: bft-ai-2025/bft-ai-2025.github.io
+
