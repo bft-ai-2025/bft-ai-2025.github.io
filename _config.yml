@@ -1,0 +1,16 @@
+title: "BFT-AI 2025"
+description: "1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems"
+url: "https://your-github-username.github.io"
+baseurl: ""
+repository: your-username/bft-ai2025-site
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+include:
+  - _pages
