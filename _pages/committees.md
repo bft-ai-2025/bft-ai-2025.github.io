@@ -1,8 +1,21 @@
 ---
 layout: single
-title: "Organizing Committee"
-permalink: /organizers/
+title: "Organizers and Program Committee"
+permalink: /committees/
 ---
 
-- **Jane Doe** (University A)
-- **John Smith** (Institute B)
+## Program Chairs
+
+- **Ana Nunes Alonso**, INESC TEC & University of Minho  
+- **Rachid Guerraoui**, EPFL
+
+---
+
+## Program Committee 
+
+- Cláudia Brito, INESC TEC  
+- Marco Vieira, UNC Charlotte  
+- Dan Kim, University of Queensland  
+- Pascal Felber, University of Neuchâtel  
+- Miguel Matos, IST Lisbon
+
