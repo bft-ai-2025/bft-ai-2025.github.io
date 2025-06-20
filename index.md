@@ -9,10 +9,10 @@ header:
     - label: "Call for Papers"
       url: "/cfp/"
 excerpt: "1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems"
-sidebar:
-  title: "Important Dates"
-  nav: important-dates
-  sticky: true
+#sidebar:
+#  title: "Important Dates"
+#  nav: important-dates
+#  sticky: true
 ---
 
 Welcome to the BFT-AI 2025 Workshop!
