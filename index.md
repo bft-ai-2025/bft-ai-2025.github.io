@@ -13,15 +13,27 @@ excerpt: "1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence 
 #  title: "Important Dates"
 #  nav: important-dates
 #  sticky: true
+#The increasing integration of AI and distributed systems—whether in the form of large-scale model training, edge inference, or autonomous multi-agent coordination—raises urgent challenges around reliability, dependability, and system-level trustworthiness. Meanwhile, AI itself offers promising tools for improving fault detection, anomaly response, and predictive resilience in distributed infrastructures.
+#
+#**Byzantine faults** are particularly concerning in these settings. Their impact spans corrupted gradients in distributed training, faulty sensor readings in IoT infrastructure, and malicious nodes in edge/federated environments. Addressing Byzantine behavior is not only vital for ensuring robust distributed AI, but also for using AI effectively in monitoring and enhancing the dependability of broader system stacks.
+#
+#The **BFT-AI workshop**, co-located with **SRDS 2025**, will bring together researchers working at the intersection of reliable distributed systems and artificial intelligence, with a dual focus:
+#
+#- Designing AI systems (training or inference) that are resilient to Byzantine faults and adversarial environments.
+#- Leveraging AI-based techniques to detect, diagnose, and mitigate Byzantine behavior in complex distributed infrastructures.
+
+
 ---
 
-Welcome to the **1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems (BFT-AI 2025)**!
+The increasing integration of AI and distributed systems — whether in the form of large-scale model training, edge inference, or autonomous multi-agent coordination—raises urgent challenges around reliability, dependability, and system-level trustworthiness. Meanwhile, AI itself offers promising tools for improving fault detection, anomaly response, and predictive resilience in distributed infrastructures.
 
-The workshop will take place on **September 29, 2025**, co-located with [SRDS 2025](https://srds-conference.org/).
+**Byzantine faults** are particularly concerning in these settings. Their impact spans corrupted gradients in distributed training, faulty sensor readings in IoT infrastructure, and malicious nodes in edge/federated environments. Addressing Byzantine behavior is not only vital for ensuring robust distributed AI, but also for using AI effectively in monitoring and enhancing the dependability of broader system stacks.
 
-As AI becomes central to distributed systems — from large-scale model training to federated learning and autonomous agents — it faces growing challenges around **reliability**, **resilience**, and **trust**. Meanwhile, AI itself offers tools for making distributed systems more fault-tolerant.
+The **BFT-AI workshop**, co-located with **SRDS 2025**, will bring together researchers working at the intersection of reliable distributed systems and artificial intelligence, with a dual focus:
 
-**Byzantine faults** pose serious threats across these domains, from corrupted gradients to adversarial nodes. BFT-AI aims to address this urgent intersection.
+- Designing AI systems (training or inference) that are resilient to Byzantine faults and adversarial environments.
+- Leveraging AI-based techniques to detect, diagnose, and mitigate Byzantine behavior in complex distributed infrastructures.
+
 
 ### Workshop Themes
 
@@ -30,14 +42,14 @@ As AI becomes central to distributed systems — from large-scale model training
 - **Theory**: Convergence guarantees and models under adversarial conditions
 - **Infrastructure**: Tools, datasets, reproducibility
 
-Join us in shaping the future of **robust AI systems and trustworthy distributed infrastructures**.
+Join us in shaping the future of ithe intersection between Byzantine fault tolerance and AI. 
 
 
 ---
 
 ## Important Dates
 
-> (All deadlines are at 23:59 AOE)
+ (All deadlines are at 23:59 AOE)
 
 | Event                   | Date            |
 |-------------------------|-----------------|

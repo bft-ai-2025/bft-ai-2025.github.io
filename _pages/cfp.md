@@ -4,12 +4,6 @@ title: "Call for Papers"
 permalink: /cfp/
 ---
 
----
-layout: single
-title: "Call for Papers"
-permalink: /cfp/
----
-
 We invite submissions to the **1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems (BFT-AI)**, co-located with [SRDS 2025](https://srds-conference.org/), to be held on **September 29, 2025** in Porto, Portugal.
 
 ---
