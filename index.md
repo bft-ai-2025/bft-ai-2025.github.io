@@ -35,14 +35,14 @@ The **BFT-AI workshop**, co-located with **SRDS 2025**, will bring together rese
 - Leveraging AI-based techniques to detect, diagnose, and mitigate Byzantine behavior in complex distributed infrastructures.
 
 
-### Workshop Themes
+### Topics of Interest
 
 - **Fault-Tolerant AI**: Resilient training and inference under Byzantine failures
 - **AI for Systems Resilience**: Detecting and mitigating system faults using ML
 - **Theory**: Convergence guarantees and models under adversarial conditions
 - **Infrastructure**: Tools, datasets, reproducibility
 
-Join us in shaping the future of ithe intersection between Byzantine fault tolerance and AI. 
+Join us in shaping the future of the intersection between Byzantine fault tolerance and AI. 
 
 
 ---
