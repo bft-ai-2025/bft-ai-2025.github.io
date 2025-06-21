@@ -34,7 +34,7 @@ All papers must be submitted in PDF format and follow the IEEE SRDS formatting g
 
 ## Important Dates
 
-> (All deadlines are at 23:59 AOE)
+(All deadlines are at 23:59 AOE)
 
 | Event                   | Date            |
 |-------------------------|-----------------|
