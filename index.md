@@ -57,3 +57,7 @@ Join us in shaping the future of the intersection between Byzantine fault tolera
 | **Author Notification** | July 25, 2025   |
 | **Camera-ready Deadline** | July 31, 2025 |
 | **Workshop Date**       | September 29, 2025 |
+
+## Contacts
+
+For further information, please contact us at [bftaiws@gmail.com](mailto:bftaiws@gmail.com).

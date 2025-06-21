@@ -47,6 +47,6 @@ All papers must be submitted in PDF format and follow the IEEE SRDS formatting g
 
 ## Dissemination
 
-- Accepted papers may be published in the **SRDS supplementary volume**
-- Papers will also appear on the workshop website
+- Accepted Research papers are eligible for inclusion in the SRDS 2025 proceedings (optional) in the **SRDS supplementary volume**.
+- Accepted Fast Abstracts will (optionally) be made available at the workshop website.
 
