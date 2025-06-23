@@ -18,4 +18,5 @@ permalink: /committees/
 - Dan Kim, University of Queensland  
 - Pascal Felber, University of Neuchâtel  
 - Miguel Matos, IST Lisbon
+- Júlio Mendonça, University of Luxembourg 
 
