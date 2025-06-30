@@ -53,7 +53,7 @@ Join us in shaping the future of the intersection between Byzantine fault tolera
 
 | Event                   | Date            |
 |-------------------------|-----------------|
-| **Paper Submission**    | July 4, 2025    |
+| **Paper Submission**    | ~~July 4, 2025~~ -> **July 11, 2025** |
 | **Author Notification** | July 25, 2025   |
 | **Camera-ready Deadline** | July 31, 2025 |
 | **Workshop Date**       | September 29, 2025 |
