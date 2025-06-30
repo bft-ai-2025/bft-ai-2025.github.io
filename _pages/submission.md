@@ -5,7 +5,7 @@ permalink: /submission/
 ---
 
 ## Submission Guidelines
-All papers must be written in English and submitted as a single PDF file via the EasyChair system (https://easychair.org/conferences/?conf=bftai25), following the IEEE double-column format. Submissions can either be Research Papers (6 pages, including references) or Fast Abstracts (2 pages, excluding references). The first page must clearly state the submission type.
+All papers must be written in English and submitted as a single PDF file via the EasyChair system ([https://easychair.org/conferences/?conf=bftai25](https://easychair.org/conferences/?conf=bftai25)), following the IEEE double-column format. Submissions can either be Research Papers (6 pages, including references) or Fast Abstracts (2 pages, excluding references). The first page must clearly state the submission type.
 
 We accept the following submission types:
 
@@ -24,5 +24,5 @@ At least one author of each accepted paper must register and present their work 
 
 ### Submission Link
 
-[Submit via EasyChair - https://easychair.org/conferences/?conf=bftai25](https://easychair.org/conferences/?conf=bftai25)
+[https://easychair.org/conferences/?conf=bftai25](https://easychair.org/conferences/?conf=bftai25)
 
