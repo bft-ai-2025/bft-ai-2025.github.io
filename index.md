@@ -34,6 +34,8 @@ The **BFT-AI workshop**, co-located with **SRDS 2025**, will bring together rese
 - Designing AI systems (training or inference) that are resilient to Byzantine faults and adversarial environments.
 - Leveraging AI-based techniques to detect, diagnose, and mitigate Byzantine behavior in complex distributed infrastructures.
 
+<span style="color: red; font-weight: bold;">📢 Deadline Extended!</span>  
+**Submission Deadline:** ~~July 4, 2025~~ → **July 11, 2025**
 
 ### Topics of Interest
 
