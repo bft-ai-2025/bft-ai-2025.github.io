@@ -6,6 +6,9 @@ permalink: /cfp/
 
 We invite submissions to the **1st Workshop on Byzantine Fault Tolerance and Artificial Intelligence Systems (BFT-AI)**, co-located with [SRDS 2025](https://srds-conference.org/), to be held on **September 29, 2025** in Porto, Portugal.
 
+<span style="color: red; font-weight: bold;">�  Deadline Extended!</span>
+**Submission Deadline:** ~~July 4, 2025~~ → **July 11, 2025**
+
 ---
 
 ## Scope and Topics
@@ -38,7 +41,7 @@ All papers must be submitted in PDF format and follow the IEEE SRDS formatting g
 
 | Event                   | Date            |
 |-------------------------|-----------------|
-| **Paper Submission**    | July 4, 2025    |
+| **Paper Submission**    | ~~July 4, 2025~~ -> July 11, 2025 |
 | **Author Notification** | July 25, 2025   |
 | **Camera-ready Deadline** | July 31, 2025 |
 | **Workshop Date**       | September 29, 2025 |
